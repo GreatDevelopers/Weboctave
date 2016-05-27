@@ -1,0 +1,15 @@
+Guide to use Weboctave
+
+1. Follow the instructions mentioned in README or use the installation script.
+
+2. Next, add @dispatch class to the loadpath of Octave.
+
+3. If you have gui which opens up by issuing octave command, then rename the octave to octave-gui and then rename octave-cli to octave   	so that by default it now opens the octave-cli.
+
+4. Now you can use the Weboctave as an anonymous user or can create your account.
+
+5. One can define functions and can call them and can even download plots.
+
+6. User can generate documentation by using doxygen.
+
+	For this cd path/to/this directory and then run doxygen doxygen.conf. 
