@@ -12,4 +12,4 @@ Guide to use Weboctave
 
 6. User can generate documentation by using doxygen.
 
-	For this cd path/to/this directory and then run doxygen doxygen.conf. 
+   For this cd path/to/this directory and then run doxygen doxygen.conf. 
